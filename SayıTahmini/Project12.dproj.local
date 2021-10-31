@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.194,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.467,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.10.30 14:28:22.073,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.10.31 18:48:41.746,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\SayıTahmini\Unit1.pas=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.10.31 18:48:41.746,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\SayıTahmini\Unit1.dfm=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.10.31 18:48:43.702,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\SayıTahmini\Project12.dproj=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Project12.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
